@@ -41,3 +41,6 @@ with urllib.request.urlopen("http://10.47.1.55/debug/845455/serviceability?sourc
             else:
                 func(value)
 func(data)
+
+
+create individual functions for each.
